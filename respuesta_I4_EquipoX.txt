@@ -1,1 +1,8 @@
-
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Quedo en color Azul.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Quedo en color Amarillo.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Tuvimos problemas con el merge y quedaron Amarillo y Azul.
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Tuvimos problemas en el punto 5, se creo un ICO con otro nombre y posteriormente lo borramos.Hubiese quedado el de Beta.
