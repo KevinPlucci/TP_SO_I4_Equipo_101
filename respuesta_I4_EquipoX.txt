@@ -1,3 +1,5 @@
+Kevin Plucci, Kevin Aguilera y Ian Garcia
+
 A- ¿Qué color de fondo tiene su página en el TESTING ?
 Quedo en color Azul.
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
@@ -6,3 +8,16 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 Tuvimos problemas con el merge y quedaron Amarillo y Azul.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Tuvimos problemas en el punto 5, se creo un ICO con otro nombre y posteriormente lo borramos.Hubiese quedado el de Beta.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+El ultimo push hecho por Kevin Plucci.
+F- ¿Qué problemas surgieron?
+Problemas con el estilo.css (Se tuvo que mandar individualmente por problemas en la consola).
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La solucion fue mandar el estilo.css por separado ya que no se actualizaba.
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Forzea un push y pisa los anteriores.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Que cada uno pullee antes de pushear.
